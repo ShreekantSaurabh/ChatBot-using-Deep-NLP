@@ -1,0 +1,8 @@
+1. On Windows 10, Launch anaconda prompt and run below commands.
+
+	conda create -n chatbot python=3.5 anaconda
+	activate chatbot
+	pip install tensorflow==1.0.0
+	spyder
+	
+2. Download zip  file from https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html for data source to train.
